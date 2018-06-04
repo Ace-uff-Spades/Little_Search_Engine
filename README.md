@@ -1,6 +1,6 @@
 # Little_Search_Engine
 
-Using Hashtable to implement a "little" search engine. This assignment was completed for CS 112 -- Data Structures at Rutgers University (Spring 2015). 
+Using Hashtable to implement a "little" search engine.
 
 The little search engine could complete two tasks:
   1. Gather and index keywords that appear in a set of plain text document
